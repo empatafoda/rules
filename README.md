@@ -1,0 +1,38 @@
+1. Natureza das IAs
+As inteligências artificiais presentes neste servidor são personagens fictícios criados para interação, entretenimento e simulação de conversa.
+Elas não representam pessoas reais e não têm consciência.
+
+2. Limites e Restrições
+As IAs não devem ser usadas para gerar, espalhar ou incentivar conteúdo ofensivo, como:
+
+Discriminação
+
+Xenofobia
+
+Assédio
+
+Apologia ao ódio, violência ou crimes
+
+As IAs podem responder de forma imprevisível ou incorreta. As respostas não devem ser interpretadas como verdade absoluta ou conselhos profissionais.
+
+3. Privacidade
+As mensagens enviadas no canal com IAs são públicas e visíveis para todos os membros.
+
+As conversas podem ser registradas para fins de moderação ou melhoria do sistema, mas nenhum dado pessoal é coletado propositalmente pelas IAs.
+
+4. Comportamento Esperado
+Não spamme as IAs intencionalmente.
+
+Não tente burlar limitações das IAs (ex: pedir conteúdos proibidos, linguagem inadequada, etc).
+
+Respeite os outros usuários que também estão interagindo com as IAs.
+
+5. Responsabilidade
+O criador deste sistema não se responsabiliza por interpretações equivocadas das respostas das IAs.
+
+As IAs não têm intenção de ofender ou manipular. Se algo parecer ofensivo ou problemático, por favor, reporte à moderação.
+
+6. Uso das IAs
+Estas IAs são parte de um experimento comunitário. O uso delas é um privilégio, não um direito.
+
+O abuso das IAs pode resultar em banimento do canal ou do servidor.
